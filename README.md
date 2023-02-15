@@ -1,4 +1,4 @@
-# CRUD Nextjs connect with MongoDB
+# CRUD Nextjs project connects with MongoDB
 
 ## Video Tutorial
 https://www.youtube.com/watch?v=RKDfKbLJkZQ&t=0s&ab_channel=DailyTuition
