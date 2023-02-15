@@ -1,3 +1,8 @@
+# CRUD Nextjs connect with MongoDB
+
+## Video Tutorial
+https://www.youtube.com/watch?v=RKDfKbLJkZQ&t=0s&ab_channel=DailyTuition
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
